@@ -7,6 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="config_server" />
+        <module name="eureka_server" />
+        <module name="order_service" />
+        <module name="student_service" />
+        <module name="zuul_server" />
       </profile>
     </annotationProcessing>
   </component>
